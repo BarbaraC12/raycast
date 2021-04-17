@@ -1,4 +1,4 @@
-const TILE_SIZE = 64;
+const TILE_SIZE = 32;
 const MAP_NUM_ROWS = 11;
 const MAP_NUM_COLS = 15;
 
