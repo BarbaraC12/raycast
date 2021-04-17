@@ -1,4 +1,5 @@
-# RAYCASTING IN JAVA SCRIPT
+# RAYCASTING PIKUMA
+this tutorial is a resource of the Cub3d project of 42 of which here is [Lien](https://trello.com/b/gKCSvB8H/cub3d "here")
 
 ## raycast_js
 Raycasting from pikuma tuto in JavaScript then in C language
