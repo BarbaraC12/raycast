@@ -3,7 +3,7 @@
 ### 1. Raycasting
 Raycasting is a technique for calculating 3D synthetic images, easily accelerated materially by a dedicated graphics card.
 
-It was used successfully in the early 1990s in video games like Wolfenstein 3D or Doom. The implementation was then entirely software and did not call for specific hardware.
+ It was used successfully in the early 1990s in video games like Wolfenstein 3D or Doom. The implementation was then entirely software and did not call for specific hardware.
 
 - Rays plotted in groups (pixel line by pixel line)
 - As much rays as the width of the screen (if resolution 320x200 -> 320 rays will be sent)

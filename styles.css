@@ -1,13 +1,30 @@
 html, body {
-    margin: 0;
+    margin:0 auto;
     padding: 0;
-    background: #555;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background: #6d8fac;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color: #142e45;
+}
+
+p, ul {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 canvas {
-    display: block;
-    margin: 0 auto;
-    border-style: solid;
-    border-width: 8px;
-    border-color: #fff;
+    display:block;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+    border-width: 15px;
+    border-color: #9db0c1;
 }
