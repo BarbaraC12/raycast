@@ -10,7 +10,7 @@ const FOV_ANGLE = 60 * (Math.PI / 180);
 const WALL_STRIP_WIDTH = 1; 
 const NUM_RAYS = WINDOW_WIDTH / WALL_STRIP_WIDTH;
 
-const MINIMAP_SCALE_FACTOR = 0.2; //USE FOR RESIZE MINIMAP
+const MINIMAP_SCALE_FACTOR = 1;
 
 class Map {
     constructor() {
