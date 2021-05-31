@@ -1,6 +1,6 @@
 <!-- all code is from Gustavo PEZZI i used it to understand raycasting and implement it in my project Cub3D from 42 cursus not with SDL lib but minilibX -->
-# RAYCASTING PIKUMA
-this tutorial is a resource of the Cub3d project of 42 of which here my workspace [TRELLO](https://trello.com/b/gKCSvB8H/graphic "trello") and here a link to [PIKUMA](https://www.pikuma.com/ "pikuma.com") website
+# RAYCASTING
+I used this tutorial as resource to apprehend Cub3d from 42 Cursus. Link to my workspace [TRELLO](https://trello.com/b/gKCSvB8H/graphic "trello") and here a link to [PIKUMA](https://www.pikuma.com/ "pikuma.com") website
 
 ## raycast_js
 Raycasting from pikuma tuto in JavaScript.
