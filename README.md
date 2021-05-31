@@ -2,8 +2,7 @@
 this tutorial is a resource of the Cub3d project of 42 of which here my workspace [TRELLO](https://trello.com/b/gKCSvB8H/graphic "trello") and here a link to [PIKUMA](https://www.pikuma.com/ "pikuma.com") website
 
 ## raycast_js
-Raycasting from pikuma tuto in JavaScript then in C language
-
+Raycasting from pikuma tuto in JavaScript.
 ### To see what code does:
 Open `index.html` in your favorite browser like Chrome, Brave or Firefox.
 
