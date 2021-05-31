@@ -1,5 +1,5 @@
 # RAYCASTING PIKUMA
-this tutorial is a resource of the Cub3d project of 42 of which here is [here](https://trello.com/b/gKCSvB8H/graphic "trello")
+this tutorial is a resource of the Cub3d project of 42 of which here my workspace [TRELLO](https://trello.com/b/gKCSvB8H/graphic "trello") and here a link to [PIKUMA](https://www.pikuma.com/ "pikuma.com") website
 
 ## raycast_js
 Raycasting from pikuma tuto in JavaScript then in C language
